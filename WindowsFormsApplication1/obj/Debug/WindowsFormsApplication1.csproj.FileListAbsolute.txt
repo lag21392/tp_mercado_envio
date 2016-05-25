@@ -8,3 +8,4 @@ C:\Users\Paulo\Documents\GitHub\tp_mercado_envio\WindowsFormsApplication1\obj\De
 C:\Users\Paulo\Documents\GitHub\tp_mercado_envio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Paulo\Documents\GitHub\tp_mercado_envio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Paulo\Documents\GitHub\tp_mercado_envio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Paulo\Documents\GitHub\tp_mercado_envio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
